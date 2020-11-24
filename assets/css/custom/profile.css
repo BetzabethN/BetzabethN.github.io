@@ -5,6 +5,9 @@
     #section0{
       background-image: url(https://avatars2.githubusercontent.com/u/29547486?s=460&u=b45838e0255173f3b2cf9417fccd08cc567cad69&v=4);
       padding: 6% 0 0 0;
+      padding: 6% 0 0 0;
+      width: 500px;
+      line-height: 700px;
     }
   
     #section1{
@@ -38,6 +41,8 @@
         #section0{
           background-image: url(https://avatars2.githubusercontent.com/u/29547486?s=460&u=b45838e0255173f3b2cf9417fccd08cc567cad69&v=4);
           padding: 6% 0 0 0;
+          width: 500px;
+          line-height: 700px;
         }
   
         #section1{
